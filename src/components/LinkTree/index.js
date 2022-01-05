@@ -21,8 +21,6 @@ export default function LinkTree() {
       <Button link='https://www.youtube.com/channel/UCrVYzSKkbkJuCtXFIPAc1LA?view_as=subscriber' icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />
       <Button link='https://www.linkedin.com/in/jongan69/' icon={linkedinLogo} name='LinkedIn' backgroundColor={variables.linkedinColor} />
       <Button link='https://github.com/jongan69' icon={githubLogo} name='Github' backgroundColor={variables.githubColor} />
-      <Button link='https://www.instagram.com/jongan69/' icon={instagramLogo} name='Instagram' backgroundColor={variables.instagramColor} />
-      <Button link='https://www.tiktok.com/@jonngan?' icon={tiktokLogo} name='Tiktok' backgroundColor={variables.githubColor} />
     </Container>
   )
 }
