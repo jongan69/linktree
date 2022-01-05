@@ -6,11 +6,16 @@ import Header from '../Header';
 
 const githubLogo = require('../../images/github.svg');
 const youtubeLogo = require('../../images/youtube.svg');
-const instagramLogo = require('../../images/instagram.svg');
-const linkedinLogo = require('../../images/linkedin-in.svg');
-const tiktokLogo = require('../../images/tiktok.svg');
 const mediumLogo = require('../../images/medium.svg');
 const publicLogo = require('../../images/public.svg');
+const godsLogo = require('../../images/godsunchained.svg');
+
+// Other Options for links
+// const instagramLogo = require('../../images/instagram.svg');
+// const linkedinLogo = require('../../images/linkedin-in.svg');
+// const tiktokLogo = require('../../images/tiktok.svg');
+// const whatsappLogo = require('../../images/whatsapp.svg');
+
 
 export default function LinkTree() {
   return (
@@ -19,7 +24,7 @@ export default function LinkTree() {
       <Button link='https://jonngan.medium.com' icon={mediumLogo} name='Medium' backgroundColor={variables.githubColor} />
       <Button link='https://share.public.com/jonngan' icon={publicLogo} name='Public' backgroundColor={variables.twitterColor} />
       <Button link='https://www.youtube.com/channel/UCj2qx1zXvPtzg-MDADw1kOQ' icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />
-      <Button link='https://www.linkedin.com/in/jongan69/' icon={linkedinLogo} name='LinkedIn' backgroundColor={variables.linkedinColor} />
+      <Button link='https://godsunchained.com/account/register?referral=CeGtiPFBzc' icon={godsLogo} name='Gods Unchained' backgroundColor={variables.linkedinColor} />
       <Button link='https://github.com/jongan69' icon={githubLogo} name='Github' backgroundColor={variables.githubColor} />
     </Container>
   )
