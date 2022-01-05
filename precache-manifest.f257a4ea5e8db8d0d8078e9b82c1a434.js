@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b821e427fac619352651e80abf346c02",
+    "revision": "f46fe51c56181d58c20b2498070a434c",
     "url": "/linktree/index.html"
   },
   {
-    "revision": "cb068afec89b6329b810",
+    "revision": "bef7b4527096eaf160c0",
     "url": "/linktree/static/css/main.7ec1b171.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/linktree/static/js/2.29f9e395.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb068afec89b6329b810",
-    "url": "/linktree/static/js/main.11e0b65e.chunk.js"
+    "revision": "bef7b4527096eaf160c0",
+    "url": "/linktree/static/js/main.e8ff7765.chunk.js"
   },
   {
     "revision": "cf2a0ab90620c56c97f1",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67fdfcdc140b6b4a9229c48e905f954c",
     "url": "/linktree/static/media/linkedin-in.67fdfcdc.svg"
+  },
+  {
+    "revision": "c86360c857c479b3244cbd21c38f9886",
+    "url": "/linktree/static/media/medium.c86360c8.svg"
+  },
+  {
+    "revision": "babdc7df98f4210f61c0100cdade91bd",
+    "url": "/linktree/static/media/public.babdc7df.svg"
   },
   {
     "revision": "72541440ee2935f24f3b5c1911f853f0",
