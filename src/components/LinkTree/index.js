@@ -18,7 +18,7 @@ export default function LinkTree() {
       <Header picture='https://media-exp1.licdn.com/dms/image/D4E35AQEOnpsk1c23Iw/profile-framedphoto-shrink_400_400/0/1632365242460?e=1641430800&v=beta&t=Xv5u1g_u-l8_n8Qfrz-YAK4RK4HOQcsKG_TgNvkYPIU' title='Jonathan Gan' subtitle='Junior Software Engineer & Investor.' />
       <Button link='https://jonngan.medium.com' icon={mediumLogo} name='Medium' backgroundColor={variables.githubColor} />
       <Button link='https://share.public.com/jonngan' icon={publicLogo} name='Public' backgroundColor={variables.twitterColor} />
-      <Button link='https://www.youtube.com/channel/UCrVYzSKkbkJuCtXFIPAc1LA?view_as=subscriber' icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />
+      <Button link='https://www.youtube.com/channel/UCj2qx1zXvPtzg-MDADw1kOQ' icon={youtubeLogo} name='Youtube' backgroundColor={variables.youtubeColor} />
       <Button link='https://www.linkedin.com/in/jongan69/' icon={linkedinLogo} name='LinkedIn' backgroundColor={variables.linkedinColor} />
       <Button link='https://github.com/jongan69' icon={githubLogo} name='Github' backgroundColor={variables.githubColor} />
     </Container>
