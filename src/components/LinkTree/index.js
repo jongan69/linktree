@@ -22,7 +22,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 export default function LinkTree() {
   return (
     <Container>
-      <Header picture='https://media-exp1.licdn.com/dms/image/D4E35AQEOnpsk1c23Iw/profile-framedphoto-shrink_400_400/0/1632365242460?e=1641430800&v=beta&t=Xv5u1g_u-l8_n8Qfrz-YAK4RK4HOQcsKG_TgNvkYPIU' title='Jonathan Gan' subtitle='Junior Software Engineer & Investor.' />
+      <Header picture='https://avatars.githubusercontent.com/u/29899042?v=4' title='Jonathan Gan' subtitle='Junior Software Engineer & Investor.' />
       <Button link='https://www.linkedin.com/newsletters/red-dev-redemption-6915857887563030528/' icon={<ArticleIcon/>} name='Blog' backgroundColor={variables.githubColor} />
       <Button link='https://expo.dev/@jongan69' icon={<AppsIcon/>} name=' Mobile Apps' backgroundColor={variables.githubColor} />
       <Button link='https://share.public.com/jonngan' icon={<PieChartIcon/>} name='Public' backgroundColor={variables.twitterColor} />
