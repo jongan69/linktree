@@ -1,4 +1,4 @@
-A simple linktree project developed by react and styled-components for github pages# linktree
+A simple linktree project developed by react and styled-components and material UI for github pages# linktree
 
 
 
