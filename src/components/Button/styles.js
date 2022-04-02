@@ -20,7 +20,7 @@ export const Container = styled.a`
 }
 `;
 
-export const Icon = styled.img`
+export const Icon = styled.div`
   height: 20px;
   margin: 0 5px;
   padding: 5px;
