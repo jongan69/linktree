@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/linktree/static/css/main.676f6e46.chunk.css",
-    "main.js": "/linktree/static/js/main.14a144e4.chunk.js",
-    "main.js.map": "/linktree/static/js/main.14a144e4.chunk.js.map",
+    "main.js": "/linktree/static/js/main.a8342c5c.chunk.js",
+    "main.js.map": "/linktree/static/js/main.a8342c5c.chunk.js.map",
     "runtime-main.js": "/linktree/static/js/runtime-main.e22fb8f2.js",
     "runtime-main.js.map": "/linktree/static/js/runtime-main.e22fb8f2.js.map",
     "static/js/2.6d420859.chunk.js": "/linktree/static/js/2.6d420859.chunk.js",
     "static/js/2.6d420859.chunk.js.map": "/linktree/static/js/2.6d420859.chunk.js.map",
     "index.html": "/linktree/index.html",
-    "precache-manifest.d213d08687d89297a4a7a8859a99a5a8.js": "/linktree/precache-manifest.d213d08687d89297a4a7a8859a99a5a8.js",
+    "precache-manifest.5bd6f40f4ba73647ba54c62542f150e8.js": "/linktree/precache-manifest.5bd6f40f4ba73647ba54c62542f150e8.js",
     "service-worker.js": "/linktree/service-worker.js",
     "static/css/main.676f6e46.chunk.css.map": "/linktree/static/css/main.676f6e46.chunk.css.map",
     "static/js/2.6d420859.chunk.js.LICENSE.txt": "/linktree/static/js/2.6d420859.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.e22fb8f2.js",
     "static/js/2.6d420859.chunk.js",
     "static/css/main.676f6e46.chunk.css",
-    "static/js/main.14a144e4.chunk.js"
+    "static/js/main.a8342c5c.chunk.js"
   ]
 }
