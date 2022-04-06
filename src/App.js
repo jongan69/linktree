@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import LinkTree from './components/LinkTree';
 import ParticlesBg from 'particles-bg'
+import { Container, Picture, Title, Subtitle } from '../src/components/Header/styles';
 
 function App() {
 
