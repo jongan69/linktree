@@ -52,7 +52,7 @@ export default function LinkTree() {
       <Button link='https://www.linkedin.com/newsletters/red-dev-redemption-6915857887563030528/' icon={<ArticleIcon/>} name='Blog' backgroundColor={variables.githubColor} />
       <Button link='https://expo.dev/@jongan69' icon={<AppsIcon/>} name=' Mobile Apps' backgroundColor={variables.githubColor} />
       <Button link='https://github.com/jongan69' icon={<GitHubIcon/>} name='Github' backgroundColor={variables.githubColor} />
-      <Button link='https://drive.google.com/file/d/1JkFOGhQRhGYG5iN_FxazbL6G5MZnmK3S/view?usp=sharing' icon={<AssignmentIndIcon/>} name=' Resume' backgroundColor={variables.githubColor} />
+      <Button link='https://docs.google.com/document/d/1euLUOVIyY6zYMQ2dA6sXCq0qt7qhCNT5zu-c7GzX0s0/edit?usp=sharing' icon={<AssignmentIndIcon/>} name=' Resume' backgroundColor={variables.githubColor} />
       <Button link='https://share.public.com/jonngan' icon={<PieChartIcon/>} name='Public' backgroundColor={variables.twitterColor} />
       <Button link='https://www.youtube.com/channel/UCj2qx1zXvPtzg-MDADw1kOQ' icon={<PlayCircleFilledWhiteIcon/>} name='Youtube' backgroundColor={variables.youtubeColor} />
       <Button link='https://godsunchained.com/account/register?referral=CeGtiPFBzc' icon={<SportsEsportsIcon/>} name='Gods Unchained' backgroundColor={variables.linkedinColor} />
