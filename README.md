@@ -21,3 +21,5 @@ To delpoy to [IPFS Using Fleek](https://ipfs.io/bafybeiezsw4ri4t54xktqoyirtiytgv
 Docker Image: fleek/create-react-app	
 
 Run Command: yarn && yarn build	
+
+Build Directory: build
