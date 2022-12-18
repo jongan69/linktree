@@ -18,8 +18,10 @@ To delpoy github page:
 
 To delpoy to [IPFS Using Fleek](https://ipfs.io/bafybeiezsw4ri4t54xktqoyirtiytgvz52o6cw6trvmfiz6vn5god7cv4y/hosting/site-deployment/#configuring-the-deployment)
 
-Docker Image: fleek/create-react-app	
+![Fleek IPFS](/Capture.png)
 
-Run Command: yarn && yarn build	
+Docker Image: `fleek/create-react-app`
 
-Build Directory: build
+Run Command: `yarn && yarn build`	
+
+Build Directory: `build`
