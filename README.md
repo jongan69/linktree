@@ -13,4 +13,4 @@ To use as a personal github page
 
 To edit background see particle-bg in app.js
 
-[IPFS](ipfs://bafybeiezsw4ri4t54xktqoyirtiytgvz52o6cw6trvmfiz6vn5god7cv4y/hosting/site-deployment/#configuring-the-deployment)
+[IPFS](https://ipfs.io/bafybeiezsw4ri4t54xktqoyirtiytgvz52o6cw6trvmfiz6vn5god7cv4y/hosting/site-deployment/#configuring-the-deployment)
