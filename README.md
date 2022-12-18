@@ -18,7 +18,7 @@ To delpoy github page:
 
 To delpoy to [IPFS Using Fleek](https://ipfs.io/bafybeiezsw4ri4t54xktqoyirtiytgvz52o6cw6trvmfiz6vn5god7cv4y/hosting/site-deployment/#configuring-the-deployment)
 
-![Fleek IPFS](/Capture.png)
+![Fleek IPFS](/Capture.PNG)
 
 Docker Image: `fleek/create-react-app`
 
