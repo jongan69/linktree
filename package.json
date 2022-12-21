@@ -2,7 +2,7 @@
   "name": "linktree",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://jongan69.github.io/linktree/",
   "dependencies": {
     "@babel/core": "^7.0.0",
     "@emotion/react": "^11.8.2",
