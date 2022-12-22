@@ -56,7 +56,7 @@ export default function LinkTree() {
       <Button link='https://gitcoin.co/jongan69' icon={<img src={gitcoinLogo} />} backgroundColor={variables.githubColor} />
       <Button link='https://docs.google.com/document/d/1euLUOVIyY6zYMQ2dA6sXCq0qt7qhCNT5zu-c7GzX0s0/edit?usp=sharing' icon={<AssignmentIndIcon />} name=' Resume' backgroundColor={variables.githubColor} />
       <Button link='https://share.public.com/jonngan' icon={<PieChartIcon />} name='Public' backgroundColor={variables.twitterColor} />
-      <Button link='https://www.youtube.com/channel/UCZjg1Y92vjGDxaHA21WpDLg' icon={<PlayCircleFilledWhiteIcon />} name='Youtube' backgroundColor={variables.youtubeColor} />
+      <Button link='https://youtube.com/@jonngan' icon={<PlayCircleFilledWhiteIcon />} name='Youtube' backgroundColor={variables.youtubeColor} />
       <ParticlesBg type="random" config={config} bg={true} />
     </Container>
   )
