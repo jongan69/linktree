@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a478f7b51e382ac1d92d210a01b8733",
+    "revision": "d5338c87f787b38cf111a77ba259f440",
     "url": "/linktree/index.html"
   },
   {
-    "revision": "43c58e14a9f0071f9283",
+    "revision": "47bd4ba922de2ed0a661",
     "url": "/linktree/static/css/main.795248c8.chunk.css"
   },
   {
-    "revision": "5df0a221210ff08ed8f6",
-    "url": "/linktree/static/js/2.cd217cfe.chunk.js"
+    "revision": "237e23dc57d17af448a7",
+    "url": "/linktree/static/js/2.686fb44b.chunk.js"
   },
   {
     "revision": "284fcdd1e5cea8f7888ebc0af40ab31a",
-    "url": "/linktree/static/js/2.cd217cfe.chunk.js.LICENSE.txt"
+    "url": "/linktree/static/js/2.686fb44b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43c58e14a9f0071f9283",
-    "url": "/linktree/static/js/main.43bb6953.chunk.js"
+    "revision": "47bd4ba922de2ed0a661",
+    "url": "/linktree/static/js/main.6782c90f.chunk.js"
   },
   {
     "revision": "fa72b150a23d6fb2a238",
     "url": "/linktree/static/js/runtime-main.a3238340.js"
+  },
+  {
+    "revision": "126ae25294f5cb486ffbb5f86f3f3793",
+    "url": "/linktree/static/media/discord.126ae252.svg"
   },
   {
     "revision": "874f98909122059c70b514a085dac955",
@@ -34,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c86360c857c479b3244cbd21c38f9886",
     "url": "/linktree/static/media/medium.c86360c8.svg"
-  },
-  {
-    "revision": "b719eec3bf4d9ce3ef0a8ebee4d5fd38",
-    "url": "/linktree/static/media/negative.b719eec3.svg"
   },
   {
     "revision": "babdc7df98f4210f61c0100cdade91bd",
