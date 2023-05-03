@@ -4,16 +4,15 @@ import Button from '../Button';
 import variables from '../../variables';
 import Header from '../Header';
 import AppsIcon from '@material-ui/icons/Apps';
-import ArticleIcon from '@mui/icons-material/Article';
 import PieChartIcon from '@mui/icons-material/PieChart';
 import PlayCircleFilledWhiteIcon from '@mui/icons-material/PlayCircleFilledWhite';
-import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import AssignmentIndIcon from '@mui/icons-material/AssignmentInd';
 import ParticlesBg from 'particles-bg'
 
 // Other Options for links
-const gitcoinLogo = require('../../images/negative.svg');
+const discordLogo = require('../../images/discord.svg');
+// import ArticleIcon from '@mui/icons-material/Article';
 // const instagramLogo = require('../../images/instagram.svg');
 // const linkedinLogo = require('../../images/linkedin-in.svg');
 // const tiktokLogo = require('../../images/tiktok.svg');
@@ -50,13 +49,12 @@ export default function LinkTree() {
   return (
     <Container>
       <Header picture='https://avatars.githubusercontent.com/u/29899042?v=4' title='Jonathan Gan' subtitle='Software Engineer & Investor.' />
-      <Button link='https://www.linkedin.com/newsletters/red-dev-redemption-6915857887563030528/' icon={<ArticleIcon />} name='Blog' backgroundColor={variables.githubColor} />
-      <Button link='https://expo.dev/@jongan69' icon={<AppsIcon />} name=' Mobile Apps' backgroundColor={variables.githubColor} />
+      <Button link='https://discord.gg/PtGb7rA' icon={<img src={discordLogo} alt="Discord Logo"/>} name='Discord' backgroundColor={variables.discordColor} />
+      <Button link='https://expo.dev/@jongan69' icon={<AppsIcon />} name=' Mobile Apps' backgroundColor={variables.twitterColor} />
       <Button link='https://github.com/jongan69' icon={<GitHubIcon />} name='Github' backgroundColor={variables.githubColor} />
-      <Button link='https://gitcoin.co/jongan69' icon={<img src={gitcoinLogo} />} backgroundColor={variables.githubColor} />
-      <Button link='https://docs.google.com/document/d/1euLUOVIyY6zYMQ2dA6sXCq0qt7qhCNT5zu-c7GzX0s0/edit?usp=sharing' icon={<AssignmentIndIcon />} name=' Resume' backgroundColor={variables.githubColor} />
+      <Button link='https://docs.google.com/document/d/1euLUOVIyY6zYMQ2dA6sXCq0qt7qhCNT5zu-c7GzX0s0/edit?usp=sharing' icon={<AssignmentIndIcon />} name=' Resume' backgroundColor={variables.whatsappColor} />
       <Button link='https://share.public.com/jonngan' icon={<PieChartIcon />} name='Public' backgroundColor={variables.twitterColor} />
-      <Button link='https://youtube.com/@jonngan' icon={<PlayCircleFilledWhiteIcon />} name='Youtube' backgroundColor={variables.youtubeColor} />
+      <Button link='https://youtube.com/@jonngan' icon={<PlayCircleFilledWhiteIcon />} name='Youtube' backgroundColor={variables.blogColor} />
       <ParticlesBg type="random" config={config} bg={true} />
     </Container>
   )

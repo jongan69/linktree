@@ -8,6 +8,7 @@ export default {
   linkedinColor: '#2867B2',
   twitterColor: '#1DA1F2',
   githubColor: '#24292e',
+  discordColor: '#4267B2',
   opt1Color: '#366251',
   opt2Color: '#FF8300',
 }
