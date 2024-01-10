@@ -49,7 +49,7 @@ export default function LinkTree() {
   return (
     <Container>
       <Header picture='https://avatars.githubusercontent.com/u/29899042?v=4' title='Jonathan Gan' subtitle='Software Engineer & Investor.' />
-      <Button link='https://discord.gg/PtGb7rA' icon={<img src={discordLogo} alt="Discord Logo"/>} name='Discord' backgroundColor={variables.discordColor} />
+      <Button link='https://discord.gg/8ThxdFtFC7' icon={<img src={discordLogo} alt="Discord Logo"/>} name='Discord' backgroundColor={variables.discordColor} />
       <Button link='https://expo.dev/@jongan69' icon={<AppsIcon />} name=' Mobile Apps' backgroundColor={variables.twitterColor} />
       <Button link='https://github.com/jongan69' icon={<GitHubIcon />} name='Github' backgroundColor={variables.githubColor} />
       <Button link='https://docs.google.com/document/d/1euLUOVIyY6zYMQ2dA6sXCq0qt7qhCNT5zu-c7GzX0s0/edit?usp=sharing' icon={<AssignmentIndIcon />} name=' Resume' backgroundColor={variables.whatsappColor} />

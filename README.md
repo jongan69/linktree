@@ -4,6 +4,10 @@ A simple link tree project developed using react and styled-components and mater
 
 To edit background see particle-bg in app.js
 
+
+Pre-requisites 
+Node v16
+
 ------
 
 To deploy github page:
