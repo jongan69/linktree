@@ -10,6 +10,14 @@ Node v16
 
 ------
 
+To Install:
+
+`yarn install --network-timeout 1000000`
+
+To Run Locally:
+
+`yarn start`
+
 To deploy github page:
 
 1. `git clone`
