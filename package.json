@@ -17,7 +17,7 @@
     "immer": "^9.0.12",
     "particles-bg": "^2.5.5",
     "polished": "^3.4.4",
-    "postcss": "^8.4.12",
+    "postcss": "^8.4.31",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
