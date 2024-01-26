@@ -54,7 +54,7 @@ export default function LinkTree() {
       <Button link='https://github.com/jongan69' icon={<GitHubIcon />} name='Github' backgroundColor={variables.githubColor} />
       <Button link='https://docs.google.com/document/d/1euLUOVIyY6zYMQ2dA6sXCq0qt7qhCNT5zu-c7GzX0s0/edit?usp=sharing' icon={<AssignmentIndIcon />} name=' Resume' backgroundColor={variables.whatsappColor} />
       <Button link='https://share.public.com/jonngan' icon={<PieChartIcon />} name='Public' backgroundColor={variables.twitterColor} />
-      <Button link='https://youtube.com/@jonngan' icon={<PlayCircleFilledWhiteIcon />} name='Youtube' backgroundColor={variables.blogColor} />
+      <Button link='https://www.youtube.com/@jonngan?sub_confirmation=1' icon={<PlayCircleFilledWhiteIcon />} name='Youtube' backgroundColor={variables.blogColor} />
       <ParticlesBg type="random" config={config} bg={true} />
     </Container>
   )
